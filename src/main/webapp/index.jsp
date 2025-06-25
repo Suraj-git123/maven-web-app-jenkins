@@ -1,12 +1,10 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
-
-<a href="www.ashokit.in">Click Here To See Ashok IT Training Schedules</a>
+<h1><font color='red'> Welcome to My Web Application <font></h1>
   
-  <h2> Call Us : +91-9985396677  </h2> 
+  <h2> This app is built and deployed using CI/CD  </h2> 
   
-  <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> thank you for visiting </h3>
 
 </body>
 </html>
